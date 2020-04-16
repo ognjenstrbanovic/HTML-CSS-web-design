@@ -93,9 +93,10 @@ figcaption {
     margin-bottom: 10px;
 }
 
-#large_figure {
+.large_figure {
     width: max-content;
     height: max-content;
+
 }
 
 #emoji_width_height_margin-left-top {
@@ -104,3 +105,9 @@ figcaption {
     margin-left: 82.5px;
     margin-top: 175px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
