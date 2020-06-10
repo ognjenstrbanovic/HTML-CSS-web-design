@@ -1,47 +1,9 @@
-/* @media only screen and (min-width: 601px) {
-    h1 {
-        display: block;
-        font-size: 2.5em;
-        margin-top: 0.67em;
-        margin-bottom: 0.67em;
-        margin-left: 0;
-        margin-right: 0;
-        font-weight: bold;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-}
-@media only screen and (max-width: 600px) {
-    h1 {
-        display: block;
-        font-size: 1.5em;
-        margin-top: 0.67em;
-        margin-bottom: 0.67em;
-        margin-left: 0;
-        margin-right: 0;
-        font-weight: bold;
-        font-family: Arial, Helvetica, sans-serif; */
-    /* }
-}
-@media only screen and (max-width: 320px) {
-    h1 {
-        display: block;
-        font-size: 1.5em;
-        margin-top: 0.67em;
-        margin-bottom: 0.67em;
-        margin-left: 0;
-        margin-right: 0;
-        font-weight: bold;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-} */
-
 @media only screen and (min-width: 601px) {
 #zero_padding {
     padding-left: 0px;
     padding-right: 0px;
     }
 }
-
 @media only screen and (min-width: 601px) {
 nav {
     display: block;
@@ -51,12 +13,10 @@ nav {
     margin-top: 0.67em;
     }
 }
-
 #h1_font-size_bold {
     font-size: 2.5em;
     font-weight: bold;
 }
-
 @media only screen and (min-width: 601px) {
     h2 {
     display: inline-block;
@@ -93,19 +53,15 @@ nav {
         font-family: Arial, Helvetica, sans-serif;
         }
 }
-
 div.centered_text_alignment {
     text-align: center;
 }
-
 #underline_overline {
     text-decoration: underline overline;
 }
-
 #underline {
     text-decoration: underline;
 }
-
 @media only screen and (min-width: 601px) {
     #figure_a {
     display: block;
@@ -122,7 +78,6 @@ div.centered_text_alignment {
     margin-bottom: 0px;
     }
 }
-
 @media only screen and (min-width: 601px) {
 p {
     display: block;
@@ -135,61 +90,50 @@ p {
     font-size: large;
     }
 }
-
 #margin-top {
     margin-top: 1.75em;
 }
-
 .figure_b {
     display: block;
     width: 285px;
     height: 213.75px;
     margin-bottom: 0px;
 }
-
 #zero_margin-top {
     margin-top: 0px;
 }
-
 .margin-left-right {
     margin-left: 100px;
     margin-right: 100px;
 }
-
 .new_width_height {
     width: 80px;
     height: 80px;
 }
-
 figcaption {
     text-align: center;
     margin-bottom: 10px;
 }
-
 .large_figure {
     width: max-content;
     height: max-content;
 
 }
-
 #emoji_width_height_margin-left-top {
     width: 120px;
     height: 120px;
     margin-left: 82.5px;
     margin-top: 175px;
 }
-
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
 }
-  
 @media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-s-1 {width: 8.33%;}
@@ -205,7 +149,6 @@ figcaption {
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
 }
-  
 @media only screen and (min-width: 768px) {
     /* For desktop: */
     .col-1 {width: 8.33%;}
@@ -221,7 +164,6 @@ figcaption {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 }
-
 @media only screen and (min-width: 601px) {
     .pixelization {
         margin-top: 50px;
@@ -232,25 +174,21 @@ figcaption {
         margin-top: 0px;
     }
 }
-
 @media only screen and (max-width: 600px) {
     #set_width_height {
         width: 280px;
         height: 210px;
     }
 }
-
 #forty_pixels_emoji {
     width: 40px;
     height: 40px;
     margin-top: 5px;
 }
-
 #formatting {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 @media only screen and (min-width: 601px) {
     .figure_c {
     display: block;
