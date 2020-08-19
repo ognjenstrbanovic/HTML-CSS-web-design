@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# web-design-challenge
 This was my first experience using solely HTML and CSS to build a working webpage/dashboard, and, to be honest, it was quite difficult for me.  
 Still, "data is more powerful when we share it with others!"  
 Using visualizations from a past assignment, I created individual pages for each plot with its corresponding explanation, and "a means by which we can navigate between them". The landing page has a comparison of all plots, and the data page has a table of the data - our foundation. It is seven pages total, and has a navigation menu on every page with: a clickable name of the site that returns the user to the home page; and "Plots", "Comparisons", and "Data" dropdowns respectively. Finally, the web page is made to be responsive ("using media queries") to differently sized devices viewing the site.
